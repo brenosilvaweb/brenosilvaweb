@@ -9,7 +9,7 @@
   <a href="https://brenosilva.com.br/">
     <img src="https://img.shields.io/website?label=brenosilva.com.br&style=for-the-badge&url=https://brenosilva.com.br/" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/brenosilvaweb">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Brenosilva.r">
