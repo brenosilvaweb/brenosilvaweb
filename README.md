@@ -49,10 +49,10 @@ Tenho formação técnica em **Web Design** e **Informática**, e estou sempre a
 ## 🧩 Projetos em Destaque
 
 - 🌐 [**Portfólio Pessoal**](https://brenosilva.com.br/)  
-  Meu site oficial com informações sobre mim, portfólio, vídeos e formas de contato.
+  Meu site oficial com informações sobre mim, portfólio, projetos.
 
 - 🧑‍💻 [**Projeto Integrador – TiConect**](https://ticonect.vercel.app/)  
-  Sistema web criado no curso técnico de Informática, com foco em conectar talentos e oportunidades.
+  Projeto de site criado no curso técnico de Informática, com infromções gerais sobre Tecnologia.
 
 - 📝 [**Editor de Código JS**](https://jseditor-five.vercel.app/)  
   Ferramenta online para testar trechos de JavaScript diretamente no navegador.
@@ -64,7 +64,7 @@ Tenho formação técnica em **Web Design** e **Informática**, e estou sempre a
   Site que exibe o IP público atual do usuário com algumas informações adicionais.
 
 - 📘 [**Ebook de JavaScript**](https://jsebook.netlify.app/)  
-  Ebook interativo com explicações e exemplos para iniciantes em JavaScript.
+  Ebook  com explicações e exemplos para iniciantes em JavaScript.
 
 
 ---
