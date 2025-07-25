@@ -66,6 +66,9 @@ Tenho formação técnica em **Web Design** e **Informática**, e estou sempre a
 - 📘 [**Ebook de JavaScript**](https://jsebook.netlify.app/)  
   Ebook  com explicações e exemplos para iniciantes em JavaScript.
 
+-🌍 [**Projeto - Águas de Chapadinha **]([https://ipinformacao.netlify.app](https://aguasdechapadinha.vercel.app/)/) 
+  Site com mapa das nascentes de Chapadinha em Capelinha-MG
+
 
 ---
 
