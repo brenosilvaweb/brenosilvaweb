@@ -26,8 +26,7 @@
 ---
 
 ## 🚀 Sobre mim  
-Atualmente atuo como **Desenvolvedor Web Júnior**, e também estudo **Matemática** pela Universidade Federal de Minas Gerais (UFMG).  
-Tenho formação técnica em **Web Design** e **Informática**, e estou sempre aprendendo novas ferramentas para criar experiências web incríveis.
+-_-
 
 ---
 
@@ -48,7 +47,7 @@ Tenho formação técnica em **Web Design** e **Informática**, e estou sempre a
 
 ## 🧩 Projetos em Destaque
 
-- 🌐 [**Portfólio Pessoal**](https://brenosilva.com.br/)  
+- 🌐 [**Portfólio Pessoal**](https://brenosilva.com.br/myprojects)  
   Meu site oficial com informações sobre mim, portfólio, projetos.
 
 - 🧑‍💻 [**Projeto Integrador – TiConect**](https://ticonect.vercel.app/)  
