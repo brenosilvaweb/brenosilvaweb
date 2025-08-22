@@ -89,30 +89,6 @@
 
 ---
 
-## 🎥 Últimos vídeos do canal
-
-📌 Se inscreva para acompanhar meus conteúdos!
-
-- [🚀 Como criar seu primeiro site do zero](LINK_DO_VIDEO_01)
-- [💻 HTML e CSS na prática: dicas para iniciantes](LINK_DO_VIDEO_02)
-- [📱 Layout responsivo com Flexbox](LINK_DO_VIDEO_03)
-- [⚙️ Node.js básico: do zero ao servidor simples](LINK_DO_VIDEO_04)
-
----
-
-## ✨ Curiosidades
-
-💡 Sou fascinado por tecnologias web modernas e acompanho as tendências de frontend e backend.
-
-🛠️ Gosto de automatizar tarefas e explorar o uso de inteligência artificial no desenvolvimento web.
-
-🔐 Tenho interesse por segurança da informação, especialmente no contexto de aplicações web.
-
-🌐 Curto estudar UX/UI Design, criando interfaces mais acessíveis e agradáveis com Figma.
-
-📱 Gosto de entender como funcionam os bastidores de apps e sites que usamos todos os dias.
-
----
 
 ## 📬 Contato
 
