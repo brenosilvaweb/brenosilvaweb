@@ -1,150 +1,35 @@
-<h1 align="center">👋 Olá! Eu sou o Breno Silva</h1>
+<!-- HEADER FUTURÍSTICO -->
 
-
+<h1 align="center">⚡ Breno Silva</h1>
+<h3 align="center">🚀 Performance • SEO Técnico • Produtos Digitais Escaláveis</h3>
 
 <p align="center">
-
-  💻 Desenvolvedor Web Júnior • 🎓 Técnico em Web Design e Informática • 📚 Graduando em Matemática (UFMG) <br/>
-
-  📍 Capelinha - MG
-
+  <img src="https://img.shields.io/badge/FOCO-Performance_Web-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO-Técnico-111827?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Puro-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Projetos-Escaláveis-0f172a?style=for-the-badge"/>
 </p>
 
 ---
 
+## 🧠 Sobre Mim
 
-## 🚀 Sobre mim  
+Desenvolvedor focado em criar **ativos digitais escaláveis**.
 
--_-
+Não construo apenas sites.  
+Construo **estruturas otimizadas para crescer organicamente**.
 
-
-
----
-
-
-
-## 🛠️ Tecnologias que utilizo
-
-
-
-### 💻 Desenvolvimento Web & Design
-
-
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</div>
-
-
-
-
+- ⚡ Performance extrema
+- 🔍 SEO técnico estruturado
+- 📈 Crescimento orgânico
+- 🧩 Ferramentas interativas leves
+- 🏗️ Arquitetura sem banco de dados
 
 ---
 
-
-
-## 🧩 Projetos em Destaque
-
-
-
-- 🌐 [**Portfólio Pessoal**](https://brenosilva.com.br/myprojects)  
-
-  Meu site oficial com informações sobre mim, portfólio, projetos.
-
-
-
-- 🧑‍💻 [**Projeto Integrador – TiConect**](https://ticonect.vercel.app/)  
-
-  Projeto de site criado no curso técnico de Informática, com infromções gerais sobre Tecnologia.
-
-
-
-- 📝 [**Editor de Código JS**](https://jseditor-five.vercel.app/)  
-
-  Ferramenta online para testar trechos de JavaScript diretamente no navegador.
-
-
-
-- 🧪 [**Compilador Web (HTML, CSS e JS)**](https://codeeditweb.vercel.app/)  
-
-  Ambiente online para editar e visualizar em tempo real códigos HTML, CSS e JavaScript.
-
-
-
-- 🌍 [**IP Info Web**](https://ipinformacao.netlify.app/)  
-
-  Site que exibe o IP público atual do usuário com algumas informações adicionais.
-
-
-
-- 📘 [**Ebook de JavaScript**](https://jsebook.netlify.app/)  
-
-  Ebook  com explicações e exemplos para iniciantes em JavaScript.
-
-
-
-- 💧 [**Projeto - Águas de Chapadinha**](https://aguasdechapadinha.vercel.app/)  
-
-  Site com mapa das nascentes de Chapadinha em Capelinha-MG
-
-
-
-
-
-
-
----
-
-
-
-### ☁️ Hospedagens que uso
-
-
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-</div>
-
-
-
-### 🌐 Onde registro meus domínios
-
-
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=GoDaddy&logoColor=white" /
-
-  <img src="https://img.shields.io/badge/HostGator-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA0OCA0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMu… (obs: sem logo oficial)" />
-
-</div>
-
-
-
----
-
-
-
-<p align="center">
-
-  Feito por <strong>Breno Silva</strong>
-
-</p>
-
-)
+## 🛠️ Stack & Especialidades
+
+```txt
+HTML5  •  CSS3  •  JavaScript  •  SEO Técnico  •  Core Web Vitals
+Sitemap  •  Schema  •  Canonical  •  Estrutura Semântica
+Arquitetura Web Leve  •  Otimização de Indexação
