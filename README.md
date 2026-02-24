@@ -10,46 +10,7 @@
 
 </p>
 
-
-
-<div align="center">
-
-  <a href="https://brenosilva.com.br/">
-
-    <img src="https://img.shields.io/website?label=brenosilva.com.br&style=for-the-badge&url=https://brenosilva.com.br/" />
-
-  </a>
-
-  <a href="https://github.com/brenosilvaweb">
-
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-
-  </a>
-
-  <a href="https://www.youtube.com/@Brenosilva.r">
-
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
-  </a>
-
-  <a href="https://www.instagram.com/__breno__silva__/">
-
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
-  </a>
-
-  <a href="https://figma.com/@SEU_USUARIO_AQUI">
-
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-  </a>
-
-</div>
-
-
-
 ---
-
 
 
 ## 🚀 Sobre mim  
