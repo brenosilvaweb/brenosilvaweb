@@ -14,16 +14,10 @@
 
 ## 🧠 Sobre Mim
 
-Desenvolvedor focado em criar **ativos digitais escaláveis**.
-
-Não construo apenas sites.  
-Construo **estruturas otimizadas para crescer organicamente**.
-
 - ⚡ Performance extrema
 - 🔍 SEO técnico estruturado
 - 📈 Crescimento orgânico
 - 🧩 Ferramentas interativas leves
-- 🏗️ Arquitetura sem banco de dados
 
 ---
 
