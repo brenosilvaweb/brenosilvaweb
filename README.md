@@ -1,29 +1,20 @@
-<!-- HEADER FUTURÍSTICO -->
+# 👋 Olá, eu sou Breno Silva
+💻 Entusiasta de desenvolvimento web, performance e SEO.
+Tenho interesse em criar experiências web rápidas, acessíveis e bem estruturadas, sempre explorando novas tecnologias e boas práticas de desenvolvimento.
 
-<h1 align="center">⚡ Breno Silva</h1>
-<h3 align="center">🚀 Performance • SEO Técnico • Produtos Digitais Escaláveis</h3>
+## 🚀 Interesses
+- 🌐 Desenvolvimento Web
+- ⚡ Performance e Core Web Vitals
+- 🔍 SEO Técnico
+- 📜 JavaScript
+- 🎨 HTML & CSS
+- ♿ Acessibilidade
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCO-Performance_Web-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SEO-Técnico-111827?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-Puro-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Projetos-Escaláveis-0f172a?style=for-the-badge"/>
-</p>
+## 📚 Atualmente estudando
+- 💡 Desenvolvimento Front-end
+- ⚙️ Performance Web
+- 📈 SEO
+- 🏗️ Arquitetura de Informação
 
----
 
-## 🧠 Sobre Mim
-
-- ⚡ Performance extrema
-- 🔍 SEO técnico estruturado
-- 📈 Crescimento orgânico
-- 🧩 Ferramentas interativas leves
-
----
-
-## 🛠️ Stack & Especialidades
-
-```txt
-HTML5  •  CSS3  •  JavaScript  •  SEO Técnico  •  Core Web Vitals
-Sitemap  •  Schema  •  Canonical  •  Estrutura Semântica
-Arquitetura Web Leve  •  Otimização de Indexação
+> 🚀 Sempre aprendendo, testando ideias e construindo novos projetos.
